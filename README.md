@@ -4,7 +4,7 @@ It is a simple Games Inforrmation application. It has two screens.
 
 ## The First screen, has game list. 
 
-## It gets a list of games from the WebService:
+   It gets a list of games from the WebService:
 ---
 https://education.3ie.fr/android/ressources/api/game/list.json
 ---
