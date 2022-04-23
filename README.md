@@ -1,4 +1,4 @@
-# GameApp
+# GameInfoApp
 
 It is a simple Games Inforrmation application. It has two screens.
 
