@@ -10,7 +10,7 @@ https://education.3ie.fr/android/ressources/api/game/list.json
 ---
 
 ## 4 new random each time the app is started and the list is loaded and displayed.
-    Upon clicking one of the games, We can see second screen with details for the selected game.
+   Upon clicking one of the games, We can see second screen with details for the selected game.
 
 ## The Second screen,we can see game details. 
-    Upon clicking on the button, It opens a browser either on Google Playstore.
+   Upon clicking on the button, It opens a browser either on Google Playstore.
